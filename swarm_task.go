@@ -10,7 +10,7 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/docker/docker/api/types/swarm"
+	"github.com/fdurand/moby/api/types/swarm"
 )
 
 // NoSuchTask is the error returned when a given task does not exist.

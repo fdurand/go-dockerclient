@@ -11,7 +11,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/docker/docker/api/types/swarm"
+	"github.com/fdurand/moby/api/types/swarm"
 )
 
 // Version returns version information about the docker server.

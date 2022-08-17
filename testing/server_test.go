@@ -24,7 +24,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/docker/docker/api/types/swarm"
+	"github.com/fdurand/moby/api/types/swarm"
 	docker "github.com/fsouza/go-dockerclient"
 )
 

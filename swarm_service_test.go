@@ -15,7 +15,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/docker/docker/api/types/swarm"
+	"github.com/fdurand/moby/api/types/swarm"
 )
 
 func TestCreateService(t *testing.T) {

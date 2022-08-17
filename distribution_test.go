@@ -10,7 +10,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/docker/docker/api/types/registry"
+	"github.com/fdurand/moby/api/types/registry"
 )
 
 func TestInspectDistribution(t *testing.T) {

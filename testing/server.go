@@ -26,8 +26,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/docker/docker/api/types/swarm"
-	"github.com/docker/docker/pkg/stdcopy"
+	"github.com/fdurand/moby/api/types/swarm"
+	"github.com/fdurand/moby/pkg/stdcopy"
 	docker "github.com/fsouza/go-dockerclient"
 	"github.com/gorilla/mux"
 )

@@ -12,7 +12,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/docker/docker/api/types/swarm"
+	"github.com/fdurand/moby/api/types/swarm"
 )
 
 // NoSuchService is the error returned when a given service does not exist.

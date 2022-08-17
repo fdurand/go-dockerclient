@@ -14,7 +14,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/docker/docker/pkg/archive"
+	"github.com/fdurand/moby/pkg/archive"
 )
 
 func TestBuildImageMultipleContextsError(t *testing.T) {
