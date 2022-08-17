@@ -4,7 +4,6 @@ go 1.18
 
 require (
 	github.com/Microsoft/go-winio v0.5.2
-	github.com/fdurand/moby v20.10.17+incompatible
 	github.com/docker/go-units v0.4.0
 	github.com/google/go-cmp v0.5.8
 	github.com/gorilla/mux v1.8.0
@@ -17,6 +16,7 @@ require (
 	github.com/containerd/cgroups v1.0.3 // indirect
 	github.com/containerd/containerd v1.6.6 // indirect
 	github.com/docker/go-connections v0.4.0 // indirect
+	github.com/fdurand/moby v0.0.0-20220817183234-475cb756d88d // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/moby/sys/mount v0.3.3 // indirect
